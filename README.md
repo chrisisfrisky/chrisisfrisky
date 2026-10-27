@@ -1,12 +1,12 @@
 a self taught software developer with mediocre experience
 
-i am experienced in (from highest to lowest experience):\n
--Lua/Luau
--Python
--Javascript
--Java
--HTML
--C++
+i am experienced in (from highest to lowest experience):
+Lua/Luau
+Python
+Javascript
+Java
+HTML
+C++
 
 i am currently working on multiple projects with the goal of learning how to effectively introduce ai coding agents into my work
 
