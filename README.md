@@ -1,6 +1,6 @@
 a self taught software developer with mediocre experience
 
-i am experienced in (from highest to lowest experience):
+i am experienced in (from highest to lowest experience):\n
 -Lua/Luau
 -Python
 -Javascript
