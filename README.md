@@ -1,4 +1,4 @@
-a self taught software developer with mediocre experience
+mediocre experience
 
 i am experienced in (from highest to lowest experience):
 Lua/Luau
